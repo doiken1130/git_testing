@@ -9,4 +9,4 @@ print("from remote changing")
 
 print("certified from notepc-envy")
 
-print("certified after .ssh setting.")
+print("test after .ssh setting.")
