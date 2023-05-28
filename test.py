@@ -12,3 +12,5 @@ print("certified from notepc-envy")
 from datetime import datetime
 
 print(datetime.now())
+
+print("OK, here was completed!!!")
