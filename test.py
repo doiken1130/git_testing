@@ -8,3 +8,7 @@ print("hello, desktop-OU")
 print("from remote changing")
 
 print("certified from notepc-envy")
+
+from datetime import datetime
+
+print(datetime.now())
